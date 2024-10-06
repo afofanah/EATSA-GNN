@@ -70,7 +70,7 @@ EATSA-GNN builds upon the concept of enhancing node representation learning thro
 Execute the main script to train the model and visualize outcomes:
 
 ```bash
-python main.py  # Replace with your main execution script
+python main.py  
 ```
 
 Modify dataset paths and hyperparameters as needed within the script.
