@@ -1,6 +1,3 @@
-Certainly a revised `README.md` for your GitHub repository based on the enhanced topic, focusing on the EATSA-GNN model with additional context regarding the teacher-student mechanism and its applications in graph node classification:
-
----
 
 # EATSA-GNN: Edge-Aware and Two-Stage Attention for Enhancing Graph Neural Networks
 
@@ -12,7 +9,6 @@ This repository contains the implementation of EATSA-GNN, a novel approach to im
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Model Overview](#model-overview)
-- [Usage](#usage)
 - [Experimental Results](#experimental-results)
 - [Visualization](#visualization)
 - [Contributing](#contributing)
@@ -34,7 +30,7 @@ These instructions will help you set up and run the EATSA-GNN model on your loca
 
 ### Prerequisites
 
-Ensure you have Python 3.x installed along with the following libraries:
+Ensure you have Python 3.11 installed along with the following libraries:
 
 - pyTorch
 - pyTorch Geometric
@@ -65,13 +61,6 @@ EATSA-GNN builds upon the concept of enhancing node representation learning thro
 - **Training Process:** Utilizes a GCN backbone enhanced with two-stage attention to refine focus in prediction tasks.
 - **Teacher-Student Interaction:** Facilitates learning efficiencies by transferring knowledge from comprehensive models to lightweight alternatives.
 
-## Usage
-
-Execute the main script to train the model and visualize outcomes:
-
-```bash
-python main.py  
-```
 
 Modify dataset paths and hyperparameters as needed within the script.
 
