@@ -1,5 +1,5 @@
 
-# EATSA-GNN: Edge-Aware and Two-Stage Attention for Enhancing Graph Neural Networks
+# EATSA-GNN: Edge-Aware and Two-Stage Attention for Enhancing Graph Neural Networks Based on Teacher-Student Mechanisms for Graph Node Classification
 
 This repository contains the implementation of EATSA-GNN, a novel approach to improve graph neural networks through edge-aware and two-stage attention mechanisms. The model leverages teacher-student frameworks to enhance node classification tasks on graph data.
 
