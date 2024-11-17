@@ -61,7 +61,17 @@ EATSA-GNN builds upon the concept of enhancing node representation learning thro
 - **Training Process:** Utilizes a GCN backbone enhanced with two-stage attention to refine focus in prediction tasks.
 - **Teacher-Student Interaction:** Facilitates learning efficiencies by transferring knowledge from comprehensive models to lightweight alternatives.
 
+## Citation
 
+@article{Fofanah2024EATSAGNNEA,
+  title={EATSA-GNN: Edge-Aware and Two-Stage attention for enhancing graph neural networks based on teacher-student mechanisms for graph node classification},
+  author={Abdul Joseph Fofanah and Alpha Omar Leigh},
+  journal={Neurocomputing},
+  year={2024},
+  volume={612},
+  pages={128686},
+  url={https://api.semanticscholar.org/CorpusID:273438622}
+}
 Modify dataset paths and hyperparameters as needed within the script.
 
 ## Experimental Results
